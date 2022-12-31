@@ -4,7 +4,7 @@ I'm Vinicius Bressiani a Full Stack Developer.
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vi_bio)](https://twitter.com/vi_bio) [![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/c/ProvandooMundo) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-boudakian-bressiani/) [![Mail Badge](https://img.shields.io/badge/-viniciusBressiani-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vi_bio@hotmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@viniciusBressiani-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vi_bio)](https://twitter.com/vi_bio) [![Mail Badge](https://img.shields.io/badge/-ProvandooMundo-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/c/ProvandooMundo) [![Linkedin Badge](https://img.shields.io/badge/-viniciusBressiani-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-boudakian-bressiani/) [![Mail Badge](https://img.shields.io/badge/-viniciusBressiani-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vi_bio@hotmail.com)
 
 <!-- TODO: Add last video link -->
 
