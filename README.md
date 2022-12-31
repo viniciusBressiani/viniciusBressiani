@@ -2,6 +2,9 @@
 
 I'm Vinicius Bressiani a Full Stack Developer.
 
+I have been an entrepreneur since 2003, I have had businesses in the field of catering, commerce, e-commerce and entertainment. In 2017 I decided to invest more in myself (having more life experiences) and took a 3-year road trip across the American and European continents. In 2019 I started to provide services in the IT area for Escola Superior de Cerveja e Malte and identified myself with the field of software engineering. I'm still learning a lot as I work. I've been dividing my time between work and studies for two years now, I've participated in several courses and training sessions and carried out many projects at ESCM.
+Today I have experience in frontend and backend, I started studying with Java, I made some programs with Python, but I have been working more with JavaScript. I use React, Redux, Nodejs and some language libraries.
+
 :mailbox: Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@viniciusBressiani-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vi_bio)](https://twitter.com/vi_bio) [![Mail Badge](https://img.shields.io/badge/-ProvandooMundo-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/c/ProvandooMundo) [![Linkedin Badge](https://img.shields.io/badge/-viniciusBressiani-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-boudakian-bressiani/) [![Mail Badge](https://img.shields.io/badge/-viniciusBressiani-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vi_bio@hotmail.com)
